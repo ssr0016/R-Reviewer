@@ -35,7 +35,7 @@ function App() {
   <br />
    <hr />
    <br />
-    <FilterArray2 />
+    <FilterArray2/>
    <br />
    <hr />
    <br />
